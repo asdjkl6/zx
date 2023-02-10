@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 ,====== 咪咕,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,NBA01
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000005969
+#EXTINF:-1 ,NBA02
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000007218
+#EXTINF:-1 ,NBA03
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000008001
+#EXTINF:-1 ,NBA04
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000008176
+#EXTINF:-1 ,NBA05
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000010129
+#EXTINF:-1 ,NBA06
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000010948
+#EXTINF:-1 ,NBA07
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000012558
+#EXTINF:-1 ,NBA08
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000025380
+#EXTINF:-1 ,NBA09
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000031494
+#EXTINF:-1 ,CBA01
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000003915
+#EXTINF:-1 ,CBA02
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000027691
+#EXTINF:-1 ,CBA03
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000015560
+#EXTINF:-1 ,CBA04
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000011297
+#EXTINF:-1 ,CBA05
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000006077
+#EXTINF:-1 ,CBA06
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000000097
+#EXTINF:-1 ,CBA07
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000002809
+#EXTINF:-1 ,其他01
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000002019
+#EXTINF:-1 ,其他02
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000004193
+#EXTINF:-1 ,其他03
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000005308
+#EXTINF:-1 ,其他04
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000005837
+#EXTINF:-1 ,其他05
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000006658
+#EXTINF:-1 ,其他06
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000008379
+#EXTINF:-1 ,咪咕01
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000002032
+#EXTINF:-1 ,咪咕02
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000004464
+#EXTINF:-1 ,咪咕03
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000005180
+#EXTINF:-1 ,咪咕04
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000006944
+#EXTINF:-1 ,咪咕05
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000007692
+#EXTINF:-1 ,咪咕06
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000009788
+#EXTINF:-1 ,咪咕07
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000010833
+#EXTINF:-1 ,咪咕08
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000011112
+#EXTINF:-1 ,咪咕09
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000011518
+#EXTINF:-1 ,咪咕10
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000011763
+#EXTINF:-1 ,咪咕11
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000011873
+#EXTINF:-1 ,咪咕12
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000012398
+#EXTINF:-1 ,咪咕13
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000012450
+#EXTINF:-1 ,咪咕14
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000012616
+#EXTINF:-1 ,咪咕15
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000015470
+#EXTINF:-1 ,咪咕16
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000015686
+#EXTINF:-1 ,咪咕17
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000017389
+#EXTINF:-1 ,咪咕18
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000017678
+#EXTINF:-1 ,咪咕19
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000017997
+#EXTINF:-1 ,咪咕20
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000019380
+#EXTINF:-1 ,咪咕21
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000019839
+#EXTINF:-1 ,咪咕22
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000020168
+#EXTINF:-1 ,咪咕23
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000021904
+#EXTINF:-1 ,咪咕24
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000023434
+#EXTINF:-1 ,咪咕25
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000024205
+#EXTINF:-1 ,咪咕26
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000024691
+#EXTINF:-1 ,咪咕27
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000025943
+#EXTINF:-1 ,咪咕28
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000027318
+#EXTINF:-1 ,咪咕29
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000027638
+#EXTINF:-1 ,咪咕30
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000031669
+#EXTINF:-1 ,咪咕31
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000010000032106
+#EXTINF:-1 ,咪咕32
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000026778
+#EXTINF:-1 ,咪咕33
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=00000250001B50800001B401420BC069&Contentid=3000000001000028638

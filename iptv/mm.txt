@@ -2,7 +2,7 @@
 🇨🇳 群 专 享,#genre#
 
 加群：137475118,https://gitea.com/zxcv66/z/raw/branch/main/1678703026711.mp4
-不要传播群专享,https://gitea.com/zxcv66/z/raw/branch/main/1678702925473.mp4
+免费订阅低调使用,https://gitea.com/zxcv66/z/raw/branch/main/1678702925473.mp4
 
 
 
@@ -2573,11 +2573,87 @@ CCTV5+,http://[2409:8087:1414:22::112d]:80/hwottcdn.ln.chinamobile.com/PLTV/8888
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,http://2022.stream-link.org/playlist/tvb_news
-無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance.ts#https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
+无线财经·体育·资讯台,http://2022.stream-link.org/playlist/tvb_finance.ts#https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯台，http://2022.stream-link.org/playlist/cable_finance.ts
+香港面包台，https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港开电视,http://2022.stream-link.org/playlist/hoy_tv.ts
+香港开电视资讯台，http://2022.stream-link.org/playlist/hoy_info.ts
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
+台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
+対宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
+搓来日本,http://baidu.douyincdn.freetvtv.com:80/wlrb/m2.m3u8
+ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+地理野生-02,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+东森财经-01,rtmp://59.124.75.138:1935/sat/tv571
+东森财经-02,rtmp://219.80.97.35/sat/tv571
+东森超视-01,rtmp://59.124.75.138:1935/sat/tv331
+东森超视-02,rtmp://219.80.97.35/sat/tv331
+凤凰中文-01,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰资讯-01,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+翡翠台HD,http://r.jdshipin.com/qClQf
+无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+华视-01,rtmp://59.124.75.138:1935/sat/tv111
+华视-02,rtmp://219.80.97.35/sat/tv111
+民视-01,rtmp://59.124.75.138:1935/sat/tv051
+民视-02,rtmp://219.80.97.35/sat/tv051
+陌陌综合-01,rtmp://59.124.75.138:1935/sat/tv761
+陌陌综合-02,rtmp://219.80.97.35/sat/tv761
+台视-01,rtmp://59.124.75.138:1935/sat/tv071
+台视-02,rtmp://219.80.97.35/sat/tv071
+纬来日本-01,rtmp://59.124.75.138:1935/sat/tv771
+纬来日本-02,rtmp://219.80.97.35/sat/tv771
+纬来体育-01,rtmp://59.124.75.138:1935/sat/tv721
+纬来体育-02,rtmp://219.80.97.35/sat/tv721
+纬来育乐-01,rtmp://59.124.75.138:1935/sat/tv701
+纬来育乐-02,rtmp://219.80.97.35/sat/tv701
+有线18-01,rtmp://59.124.75.138:1935/sat/hk041
+有线18-02,rtmp://219.80.97.35/sat/hk041
+原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+中视-01,rtmp://59.124.75.138:1935/sat/tv091
+中视-02,rtmp://219.80.97.35/sat/tv091
+CCM天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
+CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+ELEVEN1-01,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN1-02,rtmp://219.80.97.35/sat/tv731
+ELEVEN2-01,rtmp://219.80.97.35/sat/tv741
+ELEVEN2-02,rtmp://59.124.75.138:1935/sat/tv741
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+TVBS欢乐-01,rtmp://59.124.75.138:1935/sat/tv421
+TVBS欢乐-02,rtmp://219.80.97.35/sat/tv421
+TVBS新闻-01,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
+
+
+
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+
+
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://2022.stream-link.org/playlist/cable_news
@@ -2609,6 +2685,16 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 緯來日本,http://baidu.douyincdn.freetvtv.com:80/wlrb/m2.m3u8
 ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+
+天映电影,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941618
+天映经典,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941639
+卫视中文台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941624
+卫视电影台,http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941625
+
+
+
+
 
 
 
@@ -2685,7 +2771,7 @@ ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 爱探索,http://39.135.126.226:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 
 
-🇨🇳  NEW,#genre#
+🇨🇳  N E W,#genre#
 
 
 

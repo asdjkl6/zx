@@ -1,0 +1,165 @@
+央视频道,#genre#
+CCTV8K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+
+CCTV4K 超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K 超高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+
+CCTV1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
+CCTV1 综合,http://223.110.240.208:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+
+CCTV2 财经,http://ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8
+CCTV2 财经,http://223.110.240.208:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
+
+CCTV3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
+CCTV3 综艺,http://223.110.240.208:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
+
+CCTV4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
+CCTV4 中文国际,http://223.110.240.208:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
+
+CCTV5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
+CCTV5 体育,http://223.110.240.208:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
+
+CCTV5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8
+CCTV5+ 体育赛事,http://223.110.240.208:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
+
+CCTV6 电影,http://ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8
+CCTV6 电影,http://223.110.240.208:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8
+
+CCTV7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
+CCTV7 国防军事,http://223.110.240.208:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
+
+CCTV8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8
+CCTV8 电视剧,http://223.110.240.208:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8
+
+CCTV9 纪录,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+CCTV9 纪录,http://223.110.240.208:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
+
+CCTV10 科教,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
+CCTV10 科教,http://223.110.240.208:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+
+CCTV11 戏曲,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+CCTV11 戏曲,http://223.110.240.208:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+
+CCTV12 社会与法,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+CCTV12 社会与法,http://223.110.240.208:6610/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12.m3u8
+
+CCTV13 新闻,http://ott.mobaibox.com/TVOD/3/224/3221228224/index.m3u8
+CCTV13 新闻,http://223.110.240.208:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+
+CCTV14 少儿,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
+CCTV14 少儿,http://223.110.240.208:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14.m3u8
+
+CCTV15 音乐,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+CCTV15 音乐,http://223.110.240.208:6610/cntv/live1/cctv-15/cctv-15.m3u8
+
+CCTV16 奥运,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV16 奥运,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+CCTV16 奥运,http://223.110.240.208:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+
+CCTV17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+CCTV17 农业农村,http://223.110.240.208:6610/gitv/live1/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+
+
+卫视频道,#genre#
+湖南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
+湖南卫视,http://223.110.240.208:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
+
+江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
+江苏卫视,http://223.110.240.208:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
+
+浙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221225544/index.m3u8
+浙江卫视,http://223.110.240.208:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
+
+北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221227436/index.m3u8
+北京卫视,http://223.110.240.208:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ.m3u8
+
+东方卫视,http://ott.mobaibox.com/PLTV/3/224/3221227486/index.m3u8
+东方卫视,http://223.110.240.208:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8
+
+天津卫视,http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
+天津卫视,http://223.110.240.208:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8
+
+安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8
+安徽卫视,http://223.110.240.208:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ.m3u8
+
+山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227258/index.m3u8
+山东卫视,http://223.110.240.208:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8
+
+广东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
+广东卫视,http://223.110.240.208:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8
+
+深圳卫视,http://ott.mobaibox.com/PLTV/3/224/3221227217/index.m3u8
+深圳卫视,http://223.110.240.208:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8
+
+湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
+湖北卫视,http://223.110.240.208:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ.m3u8
+
+辽宁卫视,http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
+辽宁卫视,http://223.110.240.208:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ.m3u8
+
+黑龙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221227492/index.m3u8
+黑龙江卫视,http://223.110.240.208:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8
+
+江西卫视,http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+江西卫视,http://223.110.240.208:6610/gitv/live1/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8
+
+重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8
+重庆卫视,http://223.110.240.208:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv.m3u8
+
+东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+
+吉林卫视,http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+四川卫视,http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+广西卫视,http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+河北卫视,http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+河南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+贵州卫视,http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+云南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
+海南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+
+凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8
+凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
+凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
+
+NewTV,#genre#
+潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+军旅剧场,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+农业致富,http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+古装剧场,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+武搏世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+炫舞未来,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+精品大剧,http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+精品纪录,http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+金牌综艺,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+
+超清频道,#genre#
+CCTV8K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+
+CCTV4K 超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K 超高清,https://p.ggiptv.com/v/4k.m3u8
+CCTV4K 超高清,http://ye23.win/iptv/4k.cctv.php
+CCTV4K 超高清,http://118.31.113.130:82/gudou.php?id=CCTVHHD4K_38000 
+CCTV4K 超高清,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IAS 
+CCTV4K 超高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+
+CCTV16 奥运4K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV16 奥运4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16 奥运4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+纯享4K,http://ott.mobaibox.com/TVOD/3/224/3221228242/index.m3u8
+欢笑剧场4K,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8

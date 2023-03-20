@@ -58,10 +58,6 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 贵州卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 吉林卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-
-
-
-
 🇨🇳 埋堆,#genre#
 
 
@@ -149,8 +145,6 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 埋堆堆31,http://aldirect.corp-hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8??
 埋堆堆32,http://aldirect.corp-hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8??
 埋堆堆33,http://aldirect.corp-hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8??
-
-
 
 🇨🇳 斗鱼,#genre#
 
@@ -247,10 +241,6 @@ CCTV,http://zzy789.xyz/douyu1.php?id=10011042
 国外电影,http://epg.112114.xyz/douyu/9683979
 
 
-
-
-
-
 🇨🇳  虎牙,#genre#
 
 
@@ -345,13 +335,6 @@ Adam短发 海贼王,http://aldirect.corp-hls.huya.com/src/1199532313878-1199532
 树袋熊小九九 【五福星】,http://aldirect.corp-hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8?wsiphost=ipdbme
 
 
-
-
-
-
-
-
-
 🇨🇳 轮播,#genre#
 
 
@@ -364,10 +347,7 @@ Adam短发 海贼王,http://aldirect.corp-hls.huya.com/src/1199532313878-1199532
 周星驰,http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 女神经典,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-星爷经典,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
-
-
+星爷经典,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u
 周星星,http://epg.112114.xyz/huya/11342412
 周星星粤语,http://epg.112114.xyz/huya/11336587
 吴孟达,http://epg.112114.xyz/huya/11336592
@@ -388,10 +368,7 @@ Adam短发 海贼王,http://aldirect.corp-hls.huya.com/src/1199532313878-1199532
 五福星,http://epg.112114.xyz/huya/11282233
 许氏三杰,http://epg.112114.xyz/huya/11602033
 巨石强森,http://epg.112114.xyz/huya/21059581
-杰森斯坦森,http://epg.112114.xyz/huya/21059588
-
-
-
+杰森斯坦森,http://epg.112114.xyz/huya/2105958
 金庸武侠,http://epg.112114.xyz/huya/11342427
 神雕侠侣,http://epg.112114.xyz/huya/23865171
 神雕侠侣陈妍希,http://epg.112114.xyz/huya/11352964
@@ -417,10 +394,7 @@ TVB西游记,http://epg.112114.xyz/huya/23735126
 爱情公寓,http://epg.112114.xyz/huya/11336726
 庆余年,http://epg.112114.xyz/huya/11352960
 雍正王朝,http://epg.112114.xyz/huya/11342439
-神探狄仁杰,http://epg.112114.xyz/huya/11342425
-
-
-
+神探狄仁杰,http://epg.112114.xyz/huya/1134242
 放映厅,http://epg.112114.xyz/huya/11602077
 八点档,http://epg.112114.xyz/huya/880261
 经典影院,http://epg.112114.xyz/huya/11601968
@@ -443,52 +417,26 @@ TVB西游记,http://epg.112114.xyz/huya/23735126
 搞笑恐怖,http://epg.112114.xyz/huya/11601960
 枪战大片,http://epg.112114.xyz/huya/21059579
 高智商犯罪,http://epg.112114.xyz/huya/11352962
-
-
-电影台1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
-
-电影台2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29170933
-
-电影台3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-
-电影台4,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-
-电影台5,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=76101626
-
-电影台6,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24921161
-
-电影台7,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
-
-电影台8,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
-
-悦悦电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351537467
-
+电影台1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=2662317
+电影台2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=2917093
+电影台3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=2492332
+电影台4,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=3446052
+电影台5,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=7610162
+电影台6,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=2492116
+电影台7,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=3422987
+电影台8,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=135222722
+悦悦电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=135153746
 帝艺电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350670730
-
-
-电影台9,http://bp-caster.bestv.com.cn/494/1/video.m3u8
-
-隆化电影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-
-平泉电影,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-
-双滦电影,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
-
-兴隆电影,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-
-武侠剧场1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
-
-古装剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
-
-传奇剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227153
-
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-
+电影台9,http://bp-caster.bestv.com.cn/494/1/video.m3u
+隆化电影,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u
+平泉电影,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u
+双滦电影,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u
+兴隆电影,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u
+武侠剧场1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=135176242
+古装剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=135181464
+传奇剧场,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=135222715
+喜剧经典,http://epg.112114.xyz/douyu/965088
 新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-
-
-
-
 
 🇨🇳 剧场,#genre#
 
@@ -536,12 +484,6 @@ IPTV金色夕阳高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000
 芒果TV独播高清,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 芒果欧美电影高清,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 芒果精彩推荐高清,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
-
-
-
-
-
-
 
 🇨🇳 iHOT,#genre#
 
@@ -746,8 +688,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 漠河综合高清,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226097/index.m3u8
 
 
-
-
 🇨🇳 港台,#genre#
 
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
@@ -853,12 +793,6 @@ CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 中天娛樂K,http://107.151.203.111:2209/135/us50.php?id=ztz
 
 
-
-
-
-
-
-
 🇨🇳 DJ,#genre#
 
 
@@ -882,8 +816,7 @@ CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 巨星珍藏系列:邓丽君经典歌曲精选2,https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
 巨星珍藏系列:邓丽君经典歌曲精选3,https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
 巨星珍藏系列:邓丽君经典歌曲精选4,https://vdse.bdstatic.com//286f53c579b11eecd2d70f985a685ae9.mp4
-邓丽君经典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp4
-
+邓丽君经典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
 MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
@@ -1042,8 +975,7 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 2021最新情歌,https://vdse.bdstatic.com//3d84abfc356b7a2f128eea22fcb442a2.mp4
 让人陶醉的几首DJ舞曲,https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
 女生DJ伤感情歌,https://vdse.bdstatic.com//8fe41305b5c64f8e11715b4dfd442c67.mp4
-粤语和华语经典歌曲【完整版】,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
-
+粤语和华语经典歌曲【完整版】,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp
 最新dj,https://vd2.bdstatic.com/mda-mm4dszarfc74t9mx/sc/cae_h264/1638819159347843097/mda-mm4dszarfc74t9mx.mp4
 听心dj,https://vd4.bdstatic.com/mda-mkn4z2bk55w2j7k0/sc/cae_h264/1637640641759453212/mda-mkn4z2bk55w2j7k0.mp4
 一点泪水dj,https://vd2.bdstatic.com/mda-mm52zzkus5fqm4xh/sc/cae_h264/1638783595083455661/mda-mm52zzkus5fqm4xh.mp4
@@ -1197,14 +1129,6 @@ dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1
 翻唱闽南歌曲 梦中情,https://vd4.bdstatic.com/mda-nak82ydc0qg6ungm/sc/cae_h264_delogo/1642744314347465764/mda-nak82ydc0qg6ungm.mp4
 翻唱闽南歌曲 被情所困,https://vd3.bdstatic.com/mda-kfv7s0d2e3izvez3/v1-cae/sc/mda-kfv7s0d2e3izvez3.mp4
 翻唱闽南歌曲 感情有靠岸,https://vd3.bdstatic.com/mda-khqvm1hwdfg1tehr/v1-cae/sc/mda-khqvm1hwdfg1tehr.mp4
-
-
-
-
-
-
-
-
 
 
 🇨🇳 MV,#genre#
@@ -1773,8 +1697,7 @@ DJ 车载音乐,https://vd3.bdstatic.com/mda-mjtm31vvhj027na9/720p/h264/16354331
 歌曲串烧,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
 DJ感情我赌输,https://vd4.bdstatic.com/mda-ncvd174zfzapmvyb/hd/cae_h264_delogo/1648859000164993023/mda-ncvd174zfzapmvyb.mp4
 DJ爆红情歌,https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/1651314865313430355/mda-ndv4c2sjkixp16nw.mp4
-7首车载DJ情歌,https://vd4.bdstatic.com/mda-nd79nt67wda0rz2m/hd/cae_h264_delogo/1649401825584808774/mda-nd79nt67wda0rz2m.mp4
-
+7首车载DJ情歌,https://vd4.bdstatic.com/mda-nd79nt67wda0rz2m/hd/cae_h264_delogo/1649401825584808774/mda-nd79nt67wda0rz2m.mp
 5首绝美情歌,https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
 5首伤感DJ,https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4
 5首伤感音乐舞曲🎵,https://vd3.bdstatic.com/mda-mkh8vtjpfn1iq9ei/480p/h264/1637216574377274148/mda-mkh8vtjpfn1iq9ei.mp4

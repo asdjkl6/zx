@@ -1,4 +1,4 @@
-🇨🇳  央视,#genre#
+🇨🇳 央视,#genre#
 
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
@@ -25,7 +25,7 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 
 
 
-🇨🇳  卫视,#genre#
+🇨🇳 卫视,#genre#
 
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
@@ -62,7 +62,7 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 
 
 
-🇨🇳  埋堆,#genre#
+🇨🇳 埋堆,#genre#
 
 
 1.埋堆堆,https://epg.112114.xyz/huya/23740156
@@ -152,7 +152,7 @@ CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 
 
 
-🇨🇳    斗鱼,#genre#
+🇨🇳 斗鱼,#genre#
 
 
 经典电视剧,https://epg.112114.xyz/bili/21715386
@@ -352,7 +352,7 @@ Adam短发 海贼王,http://aldirect.corp-hls.huya.com/src/1199532313878-1199532
 
 
 
-🇨🇳   轮播,#genre#
+🇨🇳 轮播,#genre#
 
 
 漫威主线剧情,http://akm-tct.douyucdn.cn/live/6140589rXut81F8a.m3u8
@@ -859,7 +859,7 @@ CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 
 
 
-🇨🇳   DJ,#genre#
+🇨🇳 DJ,#genre#
 
 
 车载视频1,https://vd2.bdstatic.com/mda-mki7h67gag5wcev9/720p/h264/1637299107495714243/mda-mki7h67gag5wcev9.mp4
@@ -1207,7 +1207,7 @@ dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1
 
 
 
-🇨🇳   MV,#genre#
+🇨🇳 MV,#genre#
 
 
 吴涤清-阿里巴巴(演唱会),http://em.21dtv.com/songs/60066768.mkv
@@ -1647,10 +1647,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 
 
-
-
-🇨🇳    DJ,#genre#
-
+🇨🇳 DJ,#genre#
 
 告别缘份退出红尘,https://alimov2.a.kwimgs.com/upic/2022/06/22/18/BMjAyMjA2MjIxODE2MzdfOTU2MzA3MDg4Xzc3MzY2MTI1NDI1XzJfMw==_b_B022b17b09c7d64f3196c1247ee02f449.mp4?clientCacheKey=3x38ei45wzp5irw_b.mp4&tt=b&di=24718432&bp=10000
 💓心跳DJ💓,https://alimov2.a.kwimgs.com/upic/2022/06/20/21/BMjAyMjA2MjAyMTA2MDFfOTU2MzA3MDg4Xzc3MjQwNDQzNTc2XzJfMw==_b_Bc5de1a8485b55839f2c3b4f0cc203e20.mp4?clientCacheKey=3xt4gndg76bfpuq_b.mp4&tt=b&di=24716318&bp=10000
@@ -1820,7 +1817,7 @@ DJ舞曲,https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
 dj新歌句句在理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delogo/1647946141035592767/mda-ncmb65kfdfysdq4g.mp4
 DJ一个多情又无情的人,https://vd2.bdstatic.com/mda-ncmehsk9eppqsm78/sc/cae_h264_delogo/1648092632169440803/mda-ncmehsk9eppqsm78.mp4
 
-🇨🇳    广舞,#genre#
+🇨🇳 广舞,#genre#
 
 
 天际,https://txmov2.a.kwimgs.com/upic/2022/07/05/17/BMjAyMjA3MDUxNzA0MTVfOTU2MzA3MDg4Xzc4NDA3MjEyNzExXzJfMw==_b_B0c770ad9b73e8c2b9b161417f27ba25f.mp4?clientCacheKey=3xc5tjpkn2punuq_b.mp4&tt=b&di=24719032&bp=10000

@@ -1,3 +1,4 @@
+凤凰,#genre#
 凤凰资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx#https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv#http://123.51.230.108:18580/.m3u8#p2p://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
 凤凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw#https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://123.51.230.108:18581/.m3u8#p2p://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
 凤凰中文,zlive://173.208.209.114:7719/3a5bf33f160d9acd63589dd48576b3ba

@@ -37,7 +37,6 @@
 
 112114EPG节目
 
-- [使用tvg-name匹配](http://epg.51zmt.top:8000/#:~:text=%E6%8F%90%E4%BE%9BEPG,name%E5%8C%B9%E9%85%8D)
 
 
 - [Diyp & 百川点击选择程序接](https://epg.112114.xyz/status)

@@ -21,9 +21,6 @@
  - [地方及数字付费](http://epg.51zmt.top:8000/difang.xml)
 
 
-- [DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
-
-
 中国EPG节目
 
 - [EPG节目预告66个](https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml)

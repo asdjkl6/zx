@@ -1,0 +1,54 @@
+🇨🇳 斗鱼電影,#genre#
+斗鱼电影①,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=92c197e24b4c55da09addebcded2f4ff&token=cpn-androidmpro-0-3637726-a97a3241d761383493862f6c95a22c2a71a10ab92caa8f7f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影②,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=313db8feb39bab1a1d5a1b87036b6312&token=cpn-androidmpro-0-3637726-a97a3241d7613834e7b788883ab1a1408b701f3fda26c6da&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影③,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7_2000.flv?wsAuth=04a634b362e78e56af2bddde662c48c2&token=cpn-androidmpro-0-3637726-a97a3241d761383449992d5fe9f8adeb51c664499750bb31&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
+斗鱼电影④,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影⑤,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影⑥,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+斗鱼电影⑦,http://tc-tct.douyucdn2.cn/dyliveflv3a/3637765rrt97QwBF.flv?wsAuth=5acd574d20805c9b6b1f96889102a9ba&token=cpn-androidmpro-0-3637765-895385f7e18dfb381255b0a17d2d1258ba145b839cad7ff4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+斗鱼电影⑧,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影⑨,http://tc-tct.douyucdn2.cn/dyliveflv3/3637765rrt97QwBF.flv?wsAuth=776496436402e0c1cc0ad4aabc8edac5&token=cpn-androidmpro-0-3637765-895385f7e18dfb38f1d2e256e7ef8a796a945b39daf4f436&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影⑩,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=ddfbd201b5741fdacd2550f5670f2661&token=cpn-androidmpro-0-3637726-a97a3241d7613834292a374c9c330ac7a1d9980349e6751e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影⑪,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+斗鱼电影⑫,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=ad509c3a57f7c623199b391a32806cab&token=cpn-androidmpro-0-3637726-a97a3241d76138347c00bce0850f540a7c6c3a5355962ff2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影⑬,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=7d953a4b0202d421f69ce29759d318b9&token=cpn-androidmpro-0-3637726-a97a3241d7613834456a237f0ac06d58be10568e6b437d8c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影⑭,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=b441d03c2310a1e3cd6b3dcb48a2f9af&token=cpn-androidmpro-0-85894-a3575d938a4aa3093e01c22a7da85938354a7f4d76d4f5ee&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+斗鱼电影⑮,http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=3e675541d1a2dee3c8810b31cfc7e151&token=cpn-androidmpro-0-3637726-a97a3241d7613834ba7dd070c48fb450a0d714e1165f96ea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼电影⑯,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pl
+斗鱼電影⑰,http://epg.112114.xyz/douyu/248753
+斗鱼電影⑱,http://epg.112114.xyz/douyu/413573
+斗鱼电影⑲,http://epg.112114.xyz/douyu/3637726
+斗鱼电视剧❶,http://epg.112114.xyz/douyu/2838296
+斗鱼电视剧❷,http://epg.112114.xyz/douyu/3756989
+斗鱼电视剧❸,http://epg.112114.xyz/douyu/8600645
+斗鱼电视剧❹,http://epg.112114.xyz/douyu/9650860
+斗鱼华语𝟏,https://akm-tct.douyucdn.cn/live/85894rmovieChow.m3u8
+斗鱼华语𝟐,https://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
+斗鱼-贝爷MAX厅,http://jiandjh.51vip.biz:35455/douyu/4332
+斗鱼-贝爷影厅①,http://jiandjh.51vip.biz:35455/douyu/36337
+斗鱼-冰冰经典电影,http://jiandjh.51vip.biz:35455/douyu/74374
+斗鱼-豆瓣高分,http://jiandjh.51vip.biz:35455/douyu/8770422
+斗鱼-霍格影片,http://jiandjh.51vip.biz:35455/douyu/8814650
+斗鱼-恐怖经典,http://jiandjh.51vip.biz:35455/douyu/1165374
+斗鱼-刘德华电影,http://jiandjh.51vip.biz:35455/douyu/2516864
+斗鱼-漫威影片,http://jiandjh.51vip.biz:35455/douyu/6140589
+斗鱼-奶虫恐怖电影,http://jiandjh.51vip.biz:35455/douyu/263824
+斗鱼-神乐影片①,http://jiandjh.51vip.biz:35455/douyu/85894
+斗鱼-神乐影片②,http://jiandjh.51vip.biz:35455/douyu/122402
+斗鱼-喜剧经典,http://jiandjh.51vip.biz:35455/douyu/9650887
+斗鱼-周末电影,http://jiandjh.51vip.biz:35455/douyu/3637726
+斗鱼_新三国,http://live.aptvapp.com/live/douyu/276200
+斗鱼_大秦帝国,http://epg.112114.xyz/douyu/1584198
+斗鱼_大秦帝国,http://live.aptvapp.com/live/douyu/1584198
+斗鱼搞笑,http://epg.112114.xyz/douyu/9067836
+斗鱼搞笑,http://epg.112114.xyz/douyu/2132902
+斗鱼-华语点歌台,http://epg.112114.xyz/douyu/3186217
+斗鱼歌舞⓵,http://epg.112114.xyz/douyu/92000
+斗鱼搞笑⓶,http://epg.112114.xyz/douyu/8737695
+斗鱼歌舞⓷,http://epg.112114.xyz/douyu/5746514
+斗鱼歌舞⓸,http://epg.112114.xyz/douyu/6129898
+斗鱼歌舞⓹,http://epg.112114.xyz/douyu/920891
+斗鱼歌舞⓺,http://epg.112114.xyz/douyu/87777
+斗鱼歌舞⓻,http://epg.112114.xyz/douyu/591657
+斗鱼歌舞⓼,http://epg.112114.xyz/douyu/9837104
+斗鱼歌舞⓽,http://epg.112114.xyz/douyu/7771387

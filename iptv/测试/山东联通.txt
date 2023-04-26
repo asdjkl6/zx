@@ -1,3 +1,4 @@
+山东联通,#genre# 
 CCTV-1综合,http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV-2财经,http://221.0.78.198:1681/hls/10202/index.m3u8
 CCTV-4中文国际,http://221.0.78.198:1681/hls/10204/index.m3u8

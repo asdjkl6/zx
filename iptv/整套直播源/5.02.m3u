@@ -1,0 +1,1504 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://39.134.115.163:8080/TVOD/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://39.134.115.163:8080/TVOD/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://39.134.115.163:8080/TVOD/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://39.134.115.163:8080/TVOD/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://39.134.115.163:8080/TVOD/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://39.134.115.163:8080/TVOD/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://39.134.115.163:8080/TVOD/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://39.134.115.163:8080/TVOD/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://39.134.115.163:8080/TVOD/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://39.134.115.163:8080/TVOD/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://39.134.115.163:8080/TVOD/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://39.134.115.163:8080/TVOD/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://39.134.115.163:8080/TVOD/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://39.134.115.163:8080/TVOD/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://39.134.115.163:8080/TVOD/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://39.134.115.163:8080/TVOD/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://39.134.115.163:8080/TVOD/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://39.134.115.163:8080/TVOD/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://39.134.115.163:8080/TVOD/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://39.134.115.163:8080/TVOD/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",纯享4K
+http://39.134.115.163:8080/TVOD/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225674/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",旅游卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://39.134.115.163:8080/TVOD/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-1
+http://39.136.33.66:6610/000000001001/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-2
+http://39.136.33.66:6610/000000001001/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-3
+http://39.136.33.66:6610/000000001001/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-4
+http://39.136.33.66:6610/000000001001/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-5
+http://39.136.33.66:6610/000000001001/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-6
+http://39.136.33.66:6610/000000001001/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-7
+http://39.136.33.66:6610/000000001001/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-8
+http://39.136.33.66:6610/000000001001/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-9
+http://39.136.33.66:6610/000000001001/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-10
+http://39.136.33.66:6610/000000001001/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-11
+http://39.136.33.66:6610/000000001001/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-12
+http://39.136.33.66:6610/000000001001/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-13
+http://39.136.33.66:6610/000000001001/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-14
+http://39.136.33.66:6610/000000001001/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-15
+http://39.136.33.66:6610/000000001001/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-16
+http://39.136.33.66:6610/000000001001/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-17
+http://39.136.33.66:6610/000000001001/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-18
+http://39.136.33.66:6610/000000001001/3000000010000004464/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004464&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-19
+http://39.136.33.66:6610/000000001001/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-20
+http://39.136.33.66:6610/000000001001/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-21
+http://39.136.33.66:6610/000000001001/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-22
+http://39.136.33.66:6610/000000001001/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-23
+http://39.136.33.66:6610/000000001001/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-24
+http://39.136.33.66:6610/000000001001/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-25
+http://39.136.33.66:6610/000000001001/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-26
+http://39.136.33.66:6610/000000001001/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-27
+http://39.136.33.66:6610/000000001001/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-28
+http://39.136.33.66:6610/000000001001/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-29
+http://39.136.33.66:6610/000000001001/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-30
+http://39.136.33.66:6610/000000001001/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-31
+http://39.136.33.66:6610/000000001001/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-32
+http://39.136.33.66:6610/000000001001/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-33
+http://39.136.33.66:6610/000000001001/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-34
+http://39.136.33.66:6610/000000001001/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-35
+http://39.136.33.66:6610/000000001001/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-36
+http://39.136.33.66:6610/000000001001/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-37
+http://39.136.33.66:6610/000000001001/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-38
+http://39.136.33.66:6610/000000001001/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-39
+http://39.136.33.66:6610/000000001001/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-40
+http://39.136.33.66:6610/000000001001/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-41
+http://39.136.33.66:6610/000000001001/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-42
+http://39.136.33.66:6610/000000001001/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-43
+http://39.136.33.66:6610/000000001001/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-44
+http://39.136.33.66:6610/000000001001/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-45
+http://39.136.33.66:6610/000000001001/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-46
+http://39.136.33.66:6610/000000001001/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-47
+http://39.136.33.66:6610/000000001001/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-48
+http://39.136.33.66:6610/000000001001/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-49
+http://39.136.33.66:6610/000000001001/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-50
+http://39.136.33.66:6610/000000001001/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-51
+http://39.136.33.66:6610/000000001001/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-52
+http://39.136.33.66:6610/000000001001/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 group-title="咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-53
+http://39.136.33.66:6610/000000001001/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
+#EXTINF:-1 group-title="轮播HD",周润发
+http://epg.112114.xyz/huya/11342387
+#EXTINF:-1 group-title="轮播HD",李连杰
+http://epg.112114.xyz/huya/11342390
+#EXTINF:-1 group-title="轮播HD",甄子丹
+http://epg.112114.xyz/huya/11352935
+#EXTINF:-1 group-title="轮播HD",邱淑贞
+http://epg.112114.xyz/huya/11352949
+#EXTINF:-1 group-title="轮播HD",刘德华
+http://epg.112114.xyz/huya/11342424
+#EXTINF:-1 group-title="轮播HD",林正英
+http://epg.112114.xyz/huya/11342421
+#EXTINF:-1 group-title="轮播HD",成龙
+http://epg.112114.xyz/huya/11342386
+#EXTINF:-1 group-title="轮播HD",徐峥
+http://epg.112114.xyz/huya/11602043
+#EXTINF:-1 group-title="轮播HD",沈腾
+http://epg.112114.xyz/huya/11601968
+#EXTINF:-1 group-title="轮播HD",五福星
+http://epg.112114.xyz/huya/11282233
+#EXTINF:-1 group-title="轮播HD",张学友
+http://epg.112114.xyz/huya/11352878
+#EXTINF:-1 group-title="轮播HD",古天乐
+http://epg.112114.xyz/huya/11602041
+#EXTINF:-1 group-title="轮播HD",周星星
+http://epg.112114.xyz/huya/11342412
+#EXTINF:-1 group-title="轮播HD",吴京
+http://epg.112114.xyz/huya/28445419
+#EXTINF:-1 group-title="轮播HD",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="轮播HD",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="轮播HD",女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 group-title="轮播HD",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 group-title="轮播HD",玄幻剧场1
+http://epg.112114.xyz/huya/11342414
+#EXTINF:-1 group-title="轮播HD",盗墓系列
+http://epg.112114.xyz/huya/11352913
+#EXTINF:-1 group-title="轮播HD",金庸经典
+http://epg.112114.xyz/huya/11342427
+#EXTINF:-1 group-title="轮播HD",卧底&警察
+http://epg.112114.xyz/huya/11279251
+#EXTINF:-1 group-title="轮播HD",黑帮斗争
+http://epg.112114.xyz/huya/11342419
+#EXTINF:-1 group-title="轮播HD",玄幻剧场
+http://epg.112114.xyz/huya/11352973
+#EXTINF:-1 group-title="轮播HD",年贺岁档
+http://epg.112114.xyz/huya/11601986
+#EXTINF:-1 group-title="轮播HD",这很不同
+http://epg.112114.xyz/huya/11602067
+#EXTINF:-1 group-title="轮播HD",女神系列
+http://epg.112114.xyz/huya/11336571
+#EXTINF:-1 group-title="斗鱼HD",邵氏影院
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 group-title="斗鱼HD",华语经典
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1 group-title="斗鱼HD",漫威影片
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="斗鱼HD",华语电影
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="斗鱼HD",华语动作电影
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 group-title="斗鱼HD",科幻系列
+http://epg.112114.xyz/douyu/8107217
+#EXTINF:-1 group-title="斗鱼HD",恐怖经典
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="斗鱼HD",恐怖电影
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1 group-title="斗鱼HD",喜剧电影
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 group-title="斗鱼HD",欧美大片
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="斗鱼HD",译制影片
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="斗鱼HD",喜剧经典
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 group-title="斗鱼HD",豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="斗鱼HD",斗鱼电影4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="斗鱼HD",女神金电影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="斗鱼HD",贝爷影厅1
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="斗鱼HD",贝爷影厅2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="斗鱼HD",霍格影片
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="斗鱼HD",可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="斗鱼HD",冰冰经典电影
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="斗鱼HD",奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="斗鱼HD",避风港影院
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="斗鱼HD",林林影视
+http://epg.112114.xyz/douyu/9652323
+#EXTINF:-1 group-title="斗鱼HD",变种人电影
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="斗鱼HD",小U电影
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 group-title="斗鱼HD",小宇60帧
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="斗鱼HD",麓山迷踪
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="斗鱼HD",高帧影片
+http://epg.112114.xyz/douyu/6763930
+#EXTINF:-1 group-title="斗鱼HD",米娅电影
+http://epg.112114.xyz/douyu/6537888
+#EXTINF:-1 group-title="汪汪队",汪汪队长001
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f96cb7c6f8354da1ab9c67a92bd03296/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长002
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/11a3110e23b546878b9fc34ab087fc99/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长003
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a076bfa8f5534589a6a32a1211d526f6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长004
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e628c3b1c7f41ef9569439bbc20c3b1/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长005
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a02cb85d5c0a4840ae320f189fef9ad5/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长006
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b361d95253e04a75b5c262c067e26e7a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长007
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1ae53296a16475c8bc2667fccf1718f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长008
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb462eedab924864bb52a076eff3f35a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长009
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/667dc8e9785047f4a2bf2008759a0d41/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长010
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7bdfb0bacfc4b76b6492b371645bec9/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长011
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/104718fde00347c0bdf3892056f6c424/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长012
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/10bcc3bdf9534b86a3ecc558eb88e8c1/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长013
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e862c5952b24af6b11e2ff5c82e3ef6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长014
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf22bd5354eb4eceb751698f1197a443/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长015
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e708bd144bc040968a0697d401c55721/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长016
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e358bc63629a4da0b571f09c1758632f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长017
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9e8b4cb15456395344f0bf506b7e5/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长018
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6de71403ea864646b457f6fb55eb7a7d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长019
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a6ce466f26941cbb9d49fa58a742395/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长020
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ff6bb3e89ece439991951d4fb5ba0b69/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长021
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b731bdafeb81400591a9ed620320d745/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长022
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c064f62c75954d3583195caa67b68b49/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长023
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cc40c88c98ec49398f4359dfa371adbf/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长024
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02f23f6dc67b463a8b0ae74dae52b3f7/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长025
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bbb24743a4e64b18a2156cccc21987af/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长026
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c100256a0b3e4193b5f92a43693dbc77/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长027
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e670a68ddb92483bbef8b1683edee4a3/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长028
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd67233519ea43da9174ae05ca1ccf57/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长029
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fdb0c5306cd242ac9b12070e65412e50/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长030
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ec904e499d8046e0b5d53fa014d72a4c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长031
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34145495b3104941805df790e3b40719/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长032
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44d516bca92e4845aef4a419097e007a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长033
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/637ac17e2b2f47a5a2333834dafa6e3f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长034
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a2d0ebd3ffb419fb02ff0c0e59e0209/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长035
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa54ffb0b7114bc9a93a22a5796518a9/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长036
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e9224d87c2e4065837bd18fd4603650/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长037
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85fedbfc85d848e9ae08ca74697443d7/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长038
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/57069bf2d17e4340b7e865c9c958de6e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长039
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa25758ec7d44282be2860fb91f6a443/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长040
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1e068184532473bb8b3594ab52473f6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长041
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b49f6e0cbce64287bc0822855dd5e427/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长042
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/735a493eb20b480cb244f8d1e76a7aee/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长043
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f55300db9b24cf4b217665674eb91db/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长044
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb132688ccb4498b8bd757dc2becd7c1/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长045
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/708e12616f6e48a3adf59ca2a2fee0f6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长046
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d68f04232644c84b93996de169a71cf/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长047
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c8b90d10b6345cda0be4eff0e0bf93b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长048
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01a6644dd1594449b17433c282698e3c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长049
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f9a25d444289482d91b91bf18c403b7e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长050
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34011c8212d2486789428ecd59fbfa8b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长051
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0826fc10e6ac46d49924d543d458b8cc/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长052
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ea7f5101a00485d9f23ddaf46ac8947/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长053
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8871a98bee374512a100e54754e5f399/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长054
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2e9c3a65fb5402180d926773837f872/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长055
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4588ae5cbe6f4f6e8c19c99a35b7d452/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长056
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df2e5d595f9f4b359c523e1d4281a09e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长057
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ede03064fc404259af277bc23f132b2a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长058
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3fef33e46ed4ca5b89d4cfe00dc6df4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长059
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76e23ba93e054dac87bd10f0e40d6cec/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长060
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/85ce09072ff145edada93afb64fa387f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长061
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3beadd023ab84420b006d46b6185b27d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长062
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/92b01218824e42b29b1b68e2a5def767/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长063
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/503fffe097444ddf9c5f1371a97c664e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长064
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d1e0ae397cc44b5ad798c5d75191f90/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长065
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ebfbf6facb9d4f02ad787fcd67ad4bb7/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长066
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6307519ee3aa4fe2857358e46defdfe3/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长067
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32334a133c1b4bfb97e6111ce76a3478/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长068
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c98fa9bd9bb48989651f86061d81a2e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长069
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/748934c34a784ab48c3bf444ab81317d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长070
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9ef05da096c4fdbb1e2554d9796c778/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长071
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f49c4c190496429ea84dccc8198e5b14/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长072
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b0c7ea4cecc94deb9d2ca354be0eefb6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长073
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9133de5a83c4451785d038ea1a2299fc/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长074
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d0231ddf43e8478eb5100daa51dc9e4c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长075
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b0668368958433da128ebd3ac2078a9/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长076
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44608193b55b4af6a0f33101615cca99/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长077
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1934704afe9b40ea91ab404690454a4c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长078
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df69d5886444407191e7e711d3e6187d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长079
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08d7b6c522624269843ad614c2a2525c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长080
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f063f2b839d248d19e45c2fe5c42ae2b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长081
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6948d4eb317c4b2caf41139d8ce43fa3/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长082
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee0a23f908f5428dbe3bc86310e99522/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长083
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad76ffe7f7a44f6fbeea3ddc3ed7918e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长084
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9fe924139d044d39313c5e0bc98e57e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长085
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3936b3902d0a4005a36a53cf69308f8b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长086
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/53b32d9b7697455c9183590257069418/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长087
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/90843453fd6e49498abc8e86bb282e05/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长088
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3b4a9c7d2681432fac5c8284f99d3215/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长089
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb05c611282c4878a6becc42177830e4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长090
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1be2af150915484ab8074088bed531fe/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长091
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f3aba478fad40f480595392139cf0c2/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长092
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/da01c5616bf543848d1a0515205a5186/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长093
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/24079359a62640af9a9066323a606d8d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长094
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/306a276e33f24aa999082842a8298278/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长095
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e63b38e57d64c62a317d5e4bcadcedc/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长096
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/56e2077c51294c97bceaf985483d446f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长097
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1630c51673764987aa22610dafd27611/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长111
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b1565ee90f7041f68f7b0b8e7ea20b5c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长112
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b45db88225664f4caa3cfbb78e59f518/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长113
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/99721ccfa68a4a86af68785667b73448/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长114
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6baf2da9c3f64ee3b61876984fb3a17b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长115
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f949da0589e42fdb548a8b25f731271/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长116
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2695a8c996b44da78f2e798087867e0b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长117
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd42703cc55545be999b776afc0dad2a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长118
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/826bb2829f5b4006905090789000dcbd/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长119
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0130d3876634e44bcc1ff137b96afb5/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长120
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a4310f33881422583f905bc3e8f7792/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长121
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8b8e54cb3c56410c81b13780612aa97d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长122
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bab90a799724e28a2737f022afac229/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长123
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7aef8afa43d4fdd980e3a22218a624c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长124
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/198c0b9732a24411876512297e52fd17/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长125
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8cd089e93b8420b9eb09c20638010f3/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长126
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1c4f3c1fa4040aaa231de944652669b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长127
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/703c8fa3b2584becbb626380a5f7868e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长128
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a01e900a410342b696d268c5b53df252/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长129
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e2a4f715ace4daa8e8639f564f7b0bb/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长130
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ed8f6ae82db4fb3b928ec3947a39d93/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长131
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd09d63781a743dd8023e34d6975c7ef/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长132
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1ac7e133bba454c8d9c1ebd64686a6f/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长133
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95e9640f88254fceaeb152838f1bc98d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长134
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50b62eff67984708a82cd5d2d8647dbb/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长135
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c2d21262d0314c7aa56b437971bd47c4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长136
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bebe3e1a4f2d46c2b925a53c8c42c517/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长137
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0e38715b1be470a8600d8ffc18e748c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长138
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c02368a7bbff4f98ad965c19ac3623d1/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长139
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1c181289aa7415d8a2a6bcb8ae26c08/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长140
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1dafa7d67aef4050ab794b493fa6401d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长141
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/af37184bf0364abba0ec422d20062d1c/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长142
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd6100554bac41b8981912cb75acb3e2/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长143
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01384039706a4293b893737c50db9b6a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长145
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/becfaf4e646741ceba2ab5222a43aaa0/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长146
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4363040f37734671a6ffbca562acdb94/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长147
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2594d4c89b924d63a16b1a7cebe9a818/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长148
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/008bfa240bef41b1bc5142a15e2addae/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长149
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/558f46f87d8944bbbb2a39f109258f3e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长150
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/83b739a1fda6486bb94c6c715e8ac432/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长151
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1da6b13f1ab488aa1b9b1289342fd11/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长152
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb63c15fcafd46aaaefd113c1972444b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长153
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dbe4359df0e746eb9100ed53d0457726/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长154
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2217d3f78e274d1a9d27a15a3eba46c8/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长155
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cfa0410519a475f8fb156b6c5ea8b66/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长156
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4e4e2d0eed0c44dfbac96be4592cde1a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长157
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0739508836274a82acab1629038ca833/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长158
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/94141755bcdc466ea7573ccf8d9cfac7/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长159
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d259eaaf6bec4f6b959b7a9934cf5d09/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长160
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/238e547277a4437c806bbf7e3fa0fd4b/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长161
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/feab755faa9344eb9e58f0b8e8602621/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长162
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d208a1294c534ecda8cf705164ad72f7/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长163
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8fe481ea2155419abc47a18b46fa96f5/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长164
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8e699928bcdf42af858be041cdc2cd29/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长165
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c8b6626e31e84facad547c07b4bfbcbb/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长166
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/efe1fb2a97b04ed7aa4729fd53f528a8/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长167
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/042e3752c9f0471f9ad9d5ed0a27979e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长168
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/507762f2a33a46c8b5b7750825faecb4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长169
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f8330d2716947228efcb63242a4fa6a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长170
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f19f82dd5a5f4361b0d461f16a402701/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长171
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e2cc371ffbee44f4b1950492f8e99bda/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长172
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84d874c15f9b4cdcb68b8fabda9f5d82/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长173
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe25e9b6543547b59e7551258db48eb0/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长174
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b3d687043c1c41de87b33af620235202/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长175
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4fa57b923f2d4a64912558b7b697d4d6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长176
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d93b6abb8e1742f3bcafab3a6144bf21/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长177
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/60a9d036de8a47dbaf508f9374037a68/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长178
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d07a1fed16e4d3fb74e097adf0def42/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长179
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a5a836bf31747f5bb1592d18de17e21/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长180
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/243d474025db4156bdd0837bd886872d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长181
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/89a30ed616ba409b8077f19a110f5d62/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长182
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/41c98cb9de454fe1bde5cb39dc9a6fe6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长183
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b0f3706c64349ad87125afca1f2aaad/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长184
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c302ed372c24020b89bc49615f8553a/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长185
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/581e0bbcbd844e78bd907fa416aca7f4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长186
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/868cf1282401478da172530aea5b11a6/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长187
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b8c4987305042e5aa10044f31952aae/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长188
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2293e8dc252c4523a0c7ec0e2a1e0df8/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长189
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9390e44c0fa74772b78d30029510873e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长190
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/414e977cad634e6a93133410c4f9441e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长191
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f5050ab4a1ce45049ceb35c7890eae92/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长192
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/359f7327663549448d12ef03124f00da/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长193
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9dc0878224449608145884243c95f89/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长194
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/56662fd507ce4808a6c260cd97fc76ce/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长195
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3053f538efda44ee80c2f3c70a75547d/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长196
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/362499b6b5a2473a9aa41605d57c2ef5/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长197
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7c2beec0c564c718f0992e3083dcdb3/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长198
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aefb4ea477ec4e5798b3bcdde21cb572/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长199
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1eabd94abd34450ab45468e0f1b8b62/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长200
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/12931e843f3e4032a8557ea0437a4c7e/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长201
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f439f27e151e450fb8a23c17df04a2e4/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长202
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa268326cfce4703b77bd899b5314301/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长203
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/99eb9baa803e4aad98804d4a82a04e86/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长204
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ab3ada6f1f5b498099fcb2a51be260df/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长205
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4fbe78e68fd4479faab69a1e4ef8bbda/1200.m3u8
+#EXTINF:-1 group-title="汪汪队",汪汪队长206
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d880f884d142aab61115952f761a75/1200.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇138
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5287727718f54fd89eb3d991bc41b3fb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇137
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/037e08be80de4302bef5b571fd9bd52a/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇136
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b5ce5c0cd3df4ee699882698fbcd11e4/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇135
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/85a9a74972ea4e8bbecd4199636cc0d4/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇134
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/64b7ae2783304840ae35d2f99b99d3e3/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇133
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0a62e89444604eec9b52d473dc3d22c5/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇132
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/117fbce4c4cb4e6c89337ca320ae5d10/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇131
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/87b12c44ea6348ad9eb48abd69e2c7d8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇130
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/038fa4751114435aa5321b33d598f848/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇129
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e22b1713a27c453c88ea98a10ac213fc/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇128
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ac2c4e8a334c412e9239452856e05cb9/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇127
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f04b49538a414d8cb1623378591c9caa/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇126
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/73f50baa610d4bffaf9eca7de19a9b60/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇125
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/249e95c062954e459abf385ef1eeb41d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇124
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/884003dff4b045efa3d1f31c4cf1fee2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇123
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/90509ea71b5a4e91896df3ecf8afd50c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇122
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d55ed5548d96472893b06559a6b7df2e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇121
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/75c3cc367b9843cfb34b898ceda322dd/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇120
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/846f9d28bdb7405e804ede6e1c10bb73/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇119
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/859bb1238f5b426883367467cf936e16/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇118
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a0fd3a23c66646ec895c0a78873ab639/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇117
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e8ad348b61664ed0a85cd28876b8747b/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇116
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c36a515424724675ac0bf6b34c793424/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇115
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/dc172b95a651469ab8327396c50c629c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇114
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/27f40b9d936345ac85bf31f21fb3198a/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇113
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/90c6a419361b4d44b6746a40d73f0440/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇112
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5979524f6a0d488f961d72cede0b046d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇111
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e6fbde84a0ce4475b50ba96948be3d8c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇110
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8ac9cd0737a147939dee4d8434fcd2a6/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇109
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c3b64fd37bf94d3e852c6d52c648d33e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇108
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d1d55bc1af494428bdc451ba44bfd30a/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇107
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/dfc52662573242ceaaf0f7a1e1e80492/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇106
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3691429ebf294738bf538d1685b3b8da/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇105
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9fdc0405c08244c29fa88eee46bddfd0/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇104
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d24d1bfbb2ab4668b596d2b2f3b77378/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇103
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e0df8257c0cd48e287dd949c7b374fd1/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇102
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/05db258445ce4a8e8f8843ced507808f/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇101
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/44e96003de8b43fdb7ef3d306950bb91/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇100
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c455119e0dfd488f8576161a1e2b82fb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇099
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/6cd8f17629844963bf7e9ef551d1b597/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇098
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/da71ae191fb64df38acec69d16eb8957/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇097
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7b13a9a0510e42bebf494dab8effa292/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇096
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5ddd6dd6209145418e25cc69546c4a86/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇095
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e3f11e3ccc1149ada61b53565e9d435d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇094
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/684a89ac2aa94701a3273514583c9d07/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇093
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0c2bba4a1f3543fbb8adf1d33f4e5166/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇092
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b2f44a23dd4c47608c94a30ae18aa219/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇091
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/32656ee7909e41adaba6d0af02f1224c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇090
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/adfd241128654b83a40e36d8b59544d8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇089
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0e6d89e7867441b2a2eb6c6cedc88ea6/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇088
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fc2ba1aa649148208964f09b457829c5/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇087
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b29757d9cfb848b0866f67e7344ddb60/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇086
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0acc31e365314726b0b38d0f02e95194/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇085
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b6a54925de4541e7809ec4694b9548f5/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇084
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8f5a7db4f3fa4259a8eff2cd44eaa950/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇083
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/33ab04721302470e9b1ba127179c270d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇082
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9be2819d80cf4efb98d5f6a7072033e6/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇081
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7498338e180749659aff5dd555c2e19e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇080
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a3a409fc5a2c4eb69ca0ee9735be8c2c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇079
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9cbef271f6c64f0fa94a3f1ffb749db0/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇078
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fe93bc7e48b4488cbe50a9a560414f97/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇077
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2dc0df4df73746bf8b788132675c13b2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇076
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/30cab45e8e9e4a728ff9f56a4b4d6c0e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇075
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c27a9b899f2f48bda9e580d965f7cc8a/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇074
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f8155e099fd349c7966ea0d4f0852e13/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇073
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c467b01342e94190936edcd8d8af65b3/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇072
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/aae3ff18c6544cfcb7eec2f09bfe974e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇071
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/494f8e0690244ba89f9af61371c47dc2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇070
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a444d153d355414ba7ed52c66e989481/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇069
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/aa1235a6e3bd499480096cfabec04573/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇068
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fa4aa467b33d4e7cb1ab3bf2bcf4c0e6/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇067
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ba468ac532e541f1be3a27573694fdb7/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇066
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d7b90b3547c144899102b1db9e8a6895/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇065
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5dcff44f533f438d96703a48139257f0/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇064
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5e987a5eb7bc4304bbadb60344864fc6/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇063
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/dfe0a80c77fd4536bd8a7577b1de7d56/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇062
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4a26960eea5246049503569fd702a237/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇061
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fce8209fc39d411b930b8d412fd6a987/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇060
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/07d68f1ef54546d4b3ad60cf20b83069/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇059
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/843b03be25614b17a74420903b217161/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇058
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/87bb8af590764470bad93e87dfbecd29/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇057
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8a3f5f5e2edc4095ab6d4ffa356e1fec/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇056
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9cfddc0e51b5497f8805d027eaad8fd1/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇055
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/48225b52a6b0487dbabc669200d1a213/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇054
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/afaa408084ec492d93de69c9a2722b1d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇053
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b59df8a7bbb343a89b3255a6934c64a5/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇052
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/508181f7e58d45e3b452a09ac08ae062/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇051
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4deb8a8a99324ce881aceeeca6f644cb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇050
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3fb7645aa0f347bfa4f422badf369c58/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇049
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a1a6c0ace4d347068885c0c841e4fccb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇048
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/db52787837354dadbd9b1a7f1c2ab900/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇047
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b941693131214d6e8ecf1dafb0d24d78/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇046
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2056d17a69c844c39c83c3a1cb451fd8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇045
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/70b4e666e3ae44f5bb6db621206c89df/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇044
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/510bd104865046d1bc72c79aeef5b008/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇043
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4b82b45071fc4cea9005562df5e1b945/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇042
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7312219c6da94b27b200461d652ade18/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇041
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/18ec8d83a02541c99239be9463bcefd8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇040
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/726e959e8cf54204bc965a7821940def/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇039
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/dccc088cadd44293b15435d40fc5ca70/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇038
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8201f66f865c42df957a0986fb762e9b/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇037
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0cbe5036c96c4e1288a387e0d2ac94e0/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇036
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ca662a8fc2784767a04661f35480eae2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇035
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e1b00e6818fb4b7fa90f43b3083256ec/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇034
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5ab833c5ab074896b37b27afedd372b2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇033
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/886e8a5cfb3a4c6cb07eb977849057a5/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇032
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/fcc1a658704e46399af85d3734b88dd7/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇031
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2d47faa5fd6048258dbd5521658c8aeb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇030
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/44827089946e47458b14f738ef5ad75c/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇029
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5f35f5e7ea7941c5a23931291e3b8b43/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇028
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/323e94884d92487c888de167ba56d0fb/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇027
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7007b7345cc6466c8689181ded8743e8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇026
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/db6f0d7768e2469db3e4918fbf581a20/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇025
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/84647431d2ee451bb25bff92e85ba6ac/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇024
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a70f7eb8e70f4740b8f9319683ddfae2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇023
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a704b004d8444fa8b9f25e1b283fc553/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇022
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/573615f532644ffe92663f3560d147ab/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇021
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8084e57cfac444e8a9a32818a0fc6bf3/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇020
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5dcb55cede734b9e8ac61d38ff7d8a49/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇019
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7c7909eacda94ad091f99dd4f6581222/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇018
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2411e6fb6eab406b9616a2a06096160d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇017
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7c20322e3c542f8b36b6be709504568/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇016
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e323ffc96be244458a1cc9aa1693751b/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇015
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/71bf6c88c4c149da88885d08e4493063/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇014
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/7b0585d4acdb48deb861ef3cbafa4cf7/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇013
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/0f2739e728ec468e90ac7f7b38a8932d/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇012
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/61e8b761f540453896cca0b44f94b7d7/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇011
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8b28655c23ba4c97a26ab39a7fad7b8a/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇010
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4ee1975fae814bb183db93af59223bd2/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇009
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/933fe890e678410d9e1dbcc1577bba1e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇008
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c474b2a647044e89aa982d05abc7470e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇007
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/50adf8eed8824cec96d693e755f26878/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇006
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9ef314447b4f49ecabecf745f24947bf/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇005
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bc9e3dd496f342de977b68ed9199e00e/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇004
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cacee61eeac643ff8c3512f2044b9366/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇003
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a81fae2a8d1141ca9d041715fdba3e26/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇002
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/405b104872d94b3a91395ccb32ab54c8/850.m3u8
+#EXTINF:-1 group-title="小猪佩奇",小猪佩奇001
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/91226e8d4f664fefa888e31d72ed8cd5/850.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没01
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95f892f4039f4ee8b8eae1ba953ab221/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没02
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/65f81d39d8e747cdbe79520fc32afbb7/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没03
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ee7d2b6c2024b46927447054cf99c18/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没04
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d7397021ec7d4a1a974285ddbafff400/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没05
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ff8466b7e913492a8248ee04509972f0/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没07
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9021cf58e50b4082a5c7aa576b3fa16f/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没08
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee1611cbc2584331a85f2a9afe1dde0a/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没09
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/211ae89613ff4f788d3a6fc4029e6345/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没10
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a6426d6c8474cb8a5241ca2827c40cc/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没11
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f561e66e0ce14dbf9c6245cf6107ed3a/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没12
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4cf851d712a2403fbb27c5dfe9f81111/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没13
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b76da0f7842e4f63b8b39e34be85d3dd/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没14
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0c8a2806397946e0a1551ddf4022fe93/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没15
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4a42ed626c574e68bf7c38617fa7ee24/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没16
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f62f7113ae80448d9a63b36ddf50da6d/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没17
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f6754fef90bd4fef928a059d5de85168/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没18
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a8751e81ca514ac78f617d5c7220191e/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没19
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a94822373c040d5aa5e1bb360d0a88a/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没20
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5074157535e74086a3203ebdc591d1eb/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没21
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0f4a63b5dd743c9ae2f870ad7b9e2dd/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没22
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5c70f014090e464d8b100457f020e0ee/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没23
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5154176ec8a742cc9596f529dc1fdbd1/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没24
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/efadc7c80573485e91a685e092b82d36/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没25
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e57ccc74e25643509d4e49df1cd02e00/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没26
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f26ac7d9f77140b38c178db893855f8a/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没27
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ab56247060c47a8bc46ff4ef1e6d162/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没28
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/752a4f8385b04fb6bdb103164f033db4/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没29
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ffedbf675e8e4c28916921a935b39e55/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没30
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/230242ff2ed843948c7c4033757d7287/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没31
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/018ada23b5674e6ca718b3cd615debeb/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没32
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9eed935fe7b4f0f81f90066b6e87563/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没33
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a8016b0f94d54d0c83f006f1fa1582e1/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没34
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a10bf5024121486d8a077c12a93cde01/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没35
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a823dd5fd0294c6d8b4b4ac1538fdf59/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没36
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a12d2d42b5644370b2564919496d517a/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没37
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c3df6cae78142a19999aaf11543c6ee/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没38
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b90b87d6e4104c23868e343bceda1977/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没39
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b9b25a6846bc452c8486ee50ff9166d5/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没40
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6f7125d109484f95a3dcee1d715bdd42/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没41
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0c70e2a6267a43b5afd3bf7971b98aab/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没42
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71c1281bf5ef4f3f9c6ba8d55895e8b2/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没43
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/12b3877caa7b4f29ac39489b0bc91c67/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没44
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f202fe0b1c20436188c5301990133795/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没45
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/75e8c6b6c9474f348b479ca796123328/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没46
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/abf336741df145e1a01be1e82ec68293/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没47
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef34c76839c54953902442e6655e2aad/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没48
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7004c20a5014c4f8d9a6e28b504231f/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没49
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/48b16b04ae504d5a8fa3a96d561230ce/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没50
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e88ebcb5fb9f441cb140c300f00fbfa0/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没51
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58f82bd26db4484887be5b37438d7c9b/1200.m3u8
+#EXTINF:-1 group-title="熊出没",熊大出没52
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/617de11ef3d94cc8bb8d77f91ab47ff6/1200.m3u8
+#EXTINF:-1 group-title="音乐",2021串烧DJ
+https://vd3.bdstatic.com/mda-mdeu032ygvtkm95k/hd/mda-mdeu032ygvtkm95k.mp4
+#EXTINF:-1 group-title="音乐",2021歌曲
+https://vd2.bdstatic.com/mda-mmcdm04add2nws28/1080p/cae_h264/1639608593870785368/mda-mmcdm04add2nws28.mp4
+#EXTINF:-1 group-title="音乐",2021酒吧夜店经典
+https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
+#EXTINF:-1 group-title="音乐",2021女生版伤感DJ情歌
+https://vdse.bdstatic.com//8fe197e92568201d4899dfd3d94585a7.mp4
+#EXTINF:-1 group-title="音乐",2021情歌
+https://vdse.bdstatic.com//3d84abfc356b7a2f128eea22fcb442a2.mp4
+#EXTINF:-1 group-title="音乐",2021热门伤感DJ
+https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+#EXTINF:-1 group-title="音乐",2021伤感情歌6首
+https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+#EXTINF:-1 group-title="音乐",2021伤感洗脑神曲
+https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
+#EXTINF:-1 group-title="音乐",2021伤感音乐
+https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+#EXTINF:-1 group-title="音乐",2021中文舞曲
+https://vdse.bdstatic.com//02a4b136a5e939a0401fc1b58eec7831.mp4
+#EXTINF:-1 group-title="音乐",2021最好听情歌
+https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
+#EXTINF:-1 group-title="音乐",2021最佳伤感情歌
+https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
+#EXTINF:-1 group-title="音乐",21年DJ爆红网络洗脑神曲
+https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+#EXTINF:-1 group-title="音乐",5首绝美情歌
+https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
+#EXTINF:-1 group-title="音乐",5首伤感DJ
+https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4
+#EXTINF:-1 group-title="音乐",5首伤感音乐舞曲??
+https://vd3.bdstatic.com/mda-mkh8vtjpfn1iq9ei/480p/h264/1637216574377274148/mda-mkh8vtjpfn1iq9ei.mp4
+#EXTINF:-1 group-title="音乐",6首DJ歌曲
+https://vd3.bdstatic.com/mda-nd58yc4sjrakii4r/sc/cae_h264_delogo/1649230374417253340/mda-nd58yc4sjrakii4r.mp4
+#EXTINF:-1 group-title="音乐",7首伤感情歌
+https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4
+#EXTINF:-1 group-title="音乐",8首串烧歌曲
+https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
+#EXTINF:-1 group-title="音乐",8首老歌
+https://vd3.bdstatic.com/mda-ncw56qz9i48y8pi8/sc/cae_h264_delogo/1648721358570368798/mda-ncw56qz9i48y8pi8.mp4
+#EXTINF:-1 group-title="音乐",9MUSES - Wild
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4
+#EXTINF:-1 group-title="音乐",9首DJ舞曲
+https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+#EXTINF:-1 group-title="音乐",CCTV15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="音乐",DJ车载音乐
+https://vd3.bdstatic.com/mda-mjtm31vvhj027na9/720p/h264/1635433115826085505/mda-mjtm31vvhj027na9.mp4
+#EXTINF:-1 group-title="音乐",DJ酒醉风雨情 伤心苦酒 朋友的酒 红尘没有错
+https://vd4.bdstatic.com/mda-nd1a4zuxf78py830/sc/cae_h264_delogo/1649003829932795060/mda-nd1a4zuxf78py830.mp4
+#EXTINF:-1 group-title="音乐",DJ情6首
+https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+#EXTINF:-1 group-title="音乐",DJ情歌
+https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+#EXTINF:-1 group-title="音乐",DJ情歌5首
+https://vd3.bdstatic.com/mda-mmg7iqkrutbwd7az/sc/cae_h264/1639851941696222972/mda-mmg7iqkrutbwd7az.mp4
+#EXTINF:-1 group-title="音乐",DJ情火 拥抱你离去 夜夜夜漫长
+https://vd3.bdstatic.com/mda-nd3gy7ukv0reh4xv/sc/cae_h264_delogo/1649115109025912038/mda-nd3gy7ukv0reh4xv.mp4
+#EXTINF:-1 group-title="音乐",DJ舍不得又能怎样呢
+https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
+#EXTINF:-1 group-title="音乐",DJ舞曲
+https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
+#EXTINF:-1 group-title="音乐",DJ舞曲
+https://vd2.bdstatic.com/mda-ncp5ggtppe1c0gw0/720p/h264_delogo/1648094099072851708/mda-ncp5ggtppe1c0gw0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-b75fb95e3bd44e8af5cc964483db1b1a&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=12262793352915624883&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=2303&split=1993062&dt=0&nt=0&kpdl=1&h265_m=-1&klogid=0000000000000000&kapid=1&psp=1&psk=8&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+#EXTINF:-1 group-title="音乐",DJ舞曲
+https://vd4.bdstatic.com/mda-idpg23napy9gsnxb/logo/sc/mda-idpg23napy9gsnxb.mp4
+#EXTINF:-1 group-title="音乐",DJ舞曲
+https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none
+#EXTINF:-1 group-title="音乐",DJ舞曲
+https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
+#EXTINF:-1 group-title="音乐",dj新歌句句在理
+https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delogo/1647946141035592767/mda-ncmb65kfdfysdq4g.mp4
+#EXTINF:-1 group-title="音乐",DJ一个多情又无情的人
+https://vd2.bdstatic.com/mda-ncmehsk9eppqsm78/sc/cae_h264_delogo/1648092632169440803/mda-ncmehsk9eppqsm78.mp4
+#EXTINF:-1 group-title="音乐",阿里山的姑娘 康定情歌 山路十八弯 敖包相会
+https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+#EXTINF:-1 group-title="音乐",爱不得忘不舍
+https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+#EXTINF:-1 group-title="音乐",爱错绝情的你
+https://vd4.bdstatic.com/mda-nc37edj3rtfxe0dw/720p/h264_delogo/1646371172935157274/mda-nc37edj3rtfxe0dw.mp4
+#EXTINF:-1 group-title="音乐",爱到最后是孤独
+https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
+#EXTINF:-1 group-title="音乐",爱难求情难断
+https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
+#EXTINF:-1 group-title="音乐",爱你到最后一刻
+https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4
+#EXTINF:-1 group-title="音乐",爱情迷了路
+https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+#EXTINF:-1 group-title="音乐",爱一回错一回
+https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4
+#EXTINF:-1 group-title="音乐",澳门酒吧音乐DJ
+https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
+#EXTINF:-1 group-title="音乐",百花香(抖音DJ版)
+https://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4
+#EXTINF:-1 group-title="音乐",爆红经典DJ老歌
+https://vd4.bdstatic.com/mda-nd3au1ey6tub05er/sc/cae_h264_delogo/1649059875966223462/mda-nd3au1ey6tub05er.mp4
+#EXTINF:-1 group-title="音乐",爆红老歌10首车载
+https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/sc/cae_h264_delogo/1645187028367793873/mda-nbhgwre9iykh09ya.mp4
+#EXTINF:-1 group-title="音乐",爆红全网十首DJ车载
+https://vdse.bdstatic.com//1d9f9d517346fec2e70d03eae43cff03.mp4
+#EXTINF:-1 group-title="音乐",背叛情歌
+https://vd2.bdstatic.com/mda-nd9g7g9pdc9d06hz/sc/cae_h264_delogo/1649669454990045825/mda-nd9g7g9pdc9d06hz.mp4
+#EXTINF:-1 group-title="音乐",蔡依琳
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+#EXTINF:-1 group-title="音乐",唱着情歌流着泪
+https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+#EXTINF:-1 group-title="音乐",超强车载重音乐
+https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
+#EXTINF:-1 group-title="音乐",潮湿的心
+https://vd3.bdstatic.com/mda-jfsre2z1s4xk012w/sc/mda-jfsre2z1s4xk012w.mp4
+#EXTINF:-1 group-title="音乐",车载DJ
+https://vd4.bdstatic.com/mda-nahdi45ud73s2842/sc/cae_h264_delogo/1642519489503455798/mda-nahdi45ud73s2842.mp4
+#EXTINF:-1 group-title="音乐",车载DJ舞曲
+https://vd3.bdstatic.com/mda-nask5v8g11h6fqmf/sc/cae_h264_delogo/1643293983357482773/mda-nask5v8g11h6fqmf.mp4
+#EXTINF:-1 group-title="音乐",车载音乐DJ歌曲
+https://vd3.bdstatic.com/mda-ncf25mrs5bm53k6j/sc/cae_h264_delogo/1647396409036292673/mda-ncf25mrs5bm53k6j.mp4
+#EXTINF:-1 group-title="音乐",揣着梦想走
+https://txmov2.a.kwimgs.com/upic/2022/02/25/08/BMjAyMjAyMjUwODU3NTNfNDgxMDc1MjAyXzY4MzQ3NDE3MTkxXzJfMw==_b_B82c9abb3bc16937e87baa32d383adedb.mp4
+#EXTINF:-1 group-title="音乐",串烧老歌
+https://vd2.bdstatic.com/mda-ncv5mjtix2x9nnjx/sc/cae_h264_delogo/1648614652163181662/mda-ncv5mjtix2x9nnjx.mp4
+#EXTINF:-1 group-title="音乐",闯天涯
+https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379471224566/mda-mjf3hahmam95yfkd.mp4
+#EXTINF:-1 group-title="音乐",磁星温柔
+https://vd3.bdstatic.com/mda-nd736b0mc5pyu7ph/sc/cae_h264_delogo/1649386250658873408/mda-nd736b0mc5pyu7ph.mp4
+#EXTINF:-1 group-title="音乐",大欢 - 多年以后
+https://vdse.bdstatic.com/3a67df360efffec634e564acc1397119.mp4
+#EXTINF:-1 group-title="音乐",等爱的玫瑰
+https://vd2.bdstatic.com/mda-jfsusw53dxs6kyvc/sc/mda-jfsusw53dxs6kyvc.mp4
+#EXTINF:-1 group-title="音乐",邓紫棋13
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298025415.mp4
+#EXTINF:-1 group-title="音乐",邓紫棋14
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
+#EXTINF:-1 group-title="音乐",邓紫棋15
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301809263.mp4
+#EXTINF:-1 group-title="音乐",电音舞曲- (Rap Feat.  Of 4Minute)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwNWb4gUolJ62iwQ.mp4
+#EXTINF:-1 group-title="音乐",东莞3星酒吧劲爆
+https://vd3.bdstatic.com/mda-nc91jug6hru2kas8/sc/cae_h264_delogo/1646878042944090737/mda-nc91jug6hru2kas8.mp4
+#EXTINF:-1 group-title="音乐",动感DJ舞曲
+https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4
+#EXTINF:-1 group-title="音乐",多年以后
+https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+#EXTINF:-1 group-title="音乐",耳朵无损
+https://vd3.bdstatic.com/mda-nd5f9bu39gty1wfk/sc/cae_h264_delogo/1649244084303159392/mda-nd5f9bu39gty1wfk.mp4
+#EXTINF:-1 group-title="音乐",风中泪
+http://txmov2.a.yximgs.com/upic/2021/01/07/06/BMjAyMTAxMDcwNjU5MjhfMTU0MDc1NjUwOF80MTk5MDI5NTM1Nl8yXzM=_b_B2c0675b0c05835b9efde19e6a2d9a47f.mp4
+#EXTINF:-1 group-title="音乐",感动天感动地
+https://vd2.bdstatic.com/mda-kc9syj5km9m1bvbq/sc/mda-kc9syj5km9m1bvbq.mp4
+#EXTINF:-1 group-title="音乐",歌曲联唱
+https://vd2.bdstatic.com/mda-jiugyuw4xwqiwzet/sc/mda-jiugyuw4xwqiwzet.mp4
+#EXTINF:-1 group-title="音乐",光明
+https://vd4.bdstatic.com/mda-ma7y4ug97hcdf710/v1-cae/1080p/mda-ma7y4ug97hcdf710.mp4
+#EXTINF:-1 group-title="音乐",海来阿木 浪子心
+https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+#EXTINF:-1 group-title="音乐",韩可可 错位时空
+https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+#EXTINF:-1 group-title="音乐",荷东dj
+https://vd4.bdstatic.com/mda-kc2b015ijvbriss5/v1-cae/sc/mda-kc2b015ijvbriss5.mp4
+#EXTINF:-1 group-title="音乐",黑街
+https://vd3.bdstatic.com/mda-mk612p9ceppwbgxj/sc/cae_h264/1636246729628620650/mda-mk612p9ceppwbgxj.mp4
+#EXTINF:-1 group-title="音乐",怀旧老歌
+https://vd2.bdstatic.com/mda-iifxghwz0upr9ng0/sc/mda-iifxghwz0upr9ng0.mp4
+#EXTINF:-1 group-title="音乐",黄昏之恋
+http://txmov2.a.yximgs.com/upic/2020/12/17/15/BMjAyMDEyMTcxNTU4MDJfMTU0MDc1NjUwOF80MDg0NzI4NTQ3NV8yXzM=_b_Bf21b260fe57f4ea92f16595655476453.mp4
+#EXTINF:-1 group-title="音乐",佳仁 - Paradise Lost
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+#EXTINF:-1 group-title="音乐",将军在上
+https://vd4.bdstatic.com/mda-mm83f0d9sws2zdu4/sc/cae_h264/1639107595725814486/mda-mm83f0d9sws2zdu4.mp4
+#EXTINF:-1 group-title="音乐",今夜为你醉
+https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+#EXTINF:-1 group-title="音乐",金典老歌
+https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+#EXTINF:-1 group-title="音乐",金泫雅 - HyunA-Ice Cream
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+#EXTINF:-1 group-title="音乐",劲爆DJ串烧
+https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+#EXTINF:-1 group-title="音乐",劲爆DJ串烧
+https://vd4.bdstatic.com/mda-mmncsg2n2cc3xdeg/480p/h264/1640253222392397868/mda-mmncsg2n2cc3xdeg.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd3.bdstatic.com/mda-ihps4033ktcz7mfq/sc/mda-ihps4033ktcz7mfq.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd2.bdstatic.com/mda-ncd2yz4tkhsx9x7n/sc/cae_h264_delogo/1647224948607209677/mda-ncd2yz4tkhsx9x7n.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd4.bdstatic.com/mda-ifts1w15vc6w8ujq/logo/sc/mda-ifts1w15vc6w8ujq.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd3.bdstatic.com/mda-ig8mrb0k4jjc5ydt/sc/mda-ig8mrb0k4jjc5ydt.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vdse.bdstatic.com//f203048340fe15016fbec9a72905680d.mp4
+#EXTINF:-1 group-title="音乐",经典老歌
+https://vd3.bdstatic.com/mda-nct6d4p39gziiwud/720p/h264_delogo/1648441969749209277/mda-nct6d4p39gziiwud.mp4
+#EXTINF:-1 group-title="音乐",经典流行音乐
+https://vdse.bdstatic.com//aa18d91f14915e1e79eacb046ac7747e.mp4
+#EXTINF:-1 group-title="音乐",经典音乐河
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
+#EXTINF:-1 group-title="音乐",精选8首
+https://vdse.bdstatic.com//200ab148a9e867ad29f5fda4ac175305.mp4
+#EXTINF:-1 group-title="音乐",精选8首
+https://vdse.bdstatic.com//525174705415c8773bd465ce4b88b18d.mp4
+#EXTINF:-1 group-title="音乐",精选DJ情歌
+https://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4
+#EXTINF:-1 group-title="音乐",精选DJ洗脑神曲
+https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4
+#EXTINF:-1 group-title="音乐",精选车载酒吧劲爆中文DJ舞曲
+https://vd2.bdstatic.com/mda-nc1dmpzkg7y9k6y1/sc/cae_h264_delogo/1646218423219778510/mda-nc1dmpzkg7y9k6y1.mp4
+#EXTINF:-1 group-title="音乐",精选酒吧DJ舞曲
+https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
+#EXTINF:-1 group-title="音乐",精选五首DJ男声串烧
+https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+#EXTINF:-1 group-title="音乐",镜中女人花
+http://txmov2.a.yximgs.com/upic/2021/01/01/12/BMjAyMTAxMDExMjU2NTRfMTU0MDc1NjUwOF80MTY4NTMyMjQyNl8yXzM=_b_Bf8f3112bb9c801bbe8a3ae1a563417df.mp4
+#EXTINF:-1 group-title="音乐",酒吧爆火DJ舞曲
+https://vd4.bdstatic.com/mda-mmgf5h3qfy82g3p6/1080p/cae_h264/1639741043433716746/mda-mmgf5h3qfy82g3p6.mp4
+#EXTINF:-1 group-title="音乐",酒吧爆火DJ舞曲②
+https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
+#EXTINF:-1 group-title="音乐",酒吧劲爆中文舞曲
+https://vd4.bdstatic.com/mda-mm0b66vfp7wt1u2z/1080p/cae_h264/1638380807362057569/mda-mm0b66vfp7wt1u2z.mp4
+#EXTINF:-1 group-title="音乐",酒吧慢摇DJ舞曲
+https://vd4.bdstatic.com/mda-ncm0qvdrfhujssxg/sc/cae_h264_delogo/1647910096911072273/mda-ncm0qvdrfhujssxg.mp4
+#EXTINF:-1 group-title="音乐",绝美情歌DJ精选
+https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
+#EXTINF:-1 group-title="音乐",渇望
+https://vd3.bdstatic.com/mda-mkmhuih1w2cmza3u/480p/h264/1637585190624896109/mda-mkmhuih1w2cmza3u.mp4
+#EXTINF:-1 group-title="音乐",苦乐年华DJ
+https://vd3.bdstatic.com/mda-nc1atnt5xwr8np3w/sc/cae_h264_delogo/1646207174401225524/mda-nc1atnt5xwr8np3w.mp4
+#EXTINF:-1 group-title="音乐",苦了累了听听歌
+https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+#EXTINF:-1 group-title="音乐",老歌
+https://vd4.bdstatic.com/mda-nak42txm5wcxf86z/sc/cae_h264_nowatermark_delogo/1643945872582337997/mda-nak42txm5wcxf86z.mp4
+#EXTINF:-1 group-title="音乐",老歌
+https://vd3.bdstatic.com/mda-ka6r4qi3e0s5isqm/sc/mda-ka6r4qi3e0s5isqm.mp4
+#EXTINF:-1 group-title="音乐",老歌
+https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/1649230737582909591/mda-nd59vsq0r1e2j3g2.mp4
+#EXTINF:-1 group-title="音乐",老歌
+https://vd2.bdstatic.com/mda-ncu43xwjqxdjbvwd/cae_h264_delogo/1648656472707879926/mda-ncu43xwjqxdjbvwd.mp4
+#EXTINF:-1 group-title="音乐",老歌
+https://vd3.bdstatic.com/mda-ncvd21k9ttjthjaf/sc/cae_h264_delogo/1648633014805656420/mda-ncvd21k9ttjthjaf.mp4
+#EXTINF:-1 group-title="音乐",老歌DJ
+https://vd2.bdstatic.com/mda-ncvm0bnkt2pcev81/sc/cae_h264_delogo/1648675885400529387/mda-ncvm0bnkt2pcev81.mp4
+#EXTINF:-1 group-title="音乐",李玲玉 女儿情
+http://vd4.bdstatic.com/mda-jiqh0kcd7kgpwnmb/sc/mda-jiqh0kcd7kgpwnmb.mp4
+#EXTINF:-1 group-title="音乐",李翊君 - 多情人都把灵魂给了谁
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+#EXTINF:-1 group-title="音乐",连锁反应
+https://vd2.bdstatic.com/mda-na26q8vkv1hegaw4/sc/cae_h264/1641186067929723723/mda-na26q8vkv1hegaw4.mp4
+#EXTINF:-1 group-title="音乐",龙飘飘 歌声恋情
+https://vd3.bdstatic.com/mda-nbr8qai32badkdf1/sc/cae_h264_delogo/1645933170027877953/mda-nbr8qai32badkdf1.mp4
+#EXTINF:-1 group-title="音乐",迈阿密泳装秀
+https://vdse.bdstatic.com//319327c8c757bef7a18bd423fc520e71.mp4
+#EXTINF:-1 group-title="音乐",迈阿密泳装周合集
+https://vd2.bdstatic.com/mda-kcjmkds5b68q4g5c/v1-cae/hd/mda-kcjmkds5b68q4g5c.mp4
+#EXTINF:-1 group-title="音乐",没理由
+https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4
+#EXTINF:-1 group-title="音乐",美女走秀
+https://vdse.bdstatic.com//07542a16fc71689e380ba5e8b1d3b790.mp4
+#EXTINF:-1 group-title="音乐",梦醒时分梦驼铃
+https://vd2.bdstatic.com/mda-kgrag6y9hpf7jfay/v1-cae/sc/mda-kgrag6y9hpf7jfay.mp4
+#EXTINF:-1 group-title="音乐",你是我今生不能忘的唯一
+https://vd4.bdstatic.com/mda-mbdzgfvp4bz1hhg8/v1-cae/1080p/mda-mbdzgfvp4bz1hhg8.mp4
+#EXTINF:-1 group-title="音乐",女驸马
+https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowatermark/1636904021328088500/mda-mkc73kvdz3q3xwaw.mp4
+#EXTINF:-1 group-title="音乐",女孩街头演唱DJ《放不下想又怕》
+https://vd2.bdstatic.com/mda-nb8mpxwznwj6s3ps/sc/cae_h264_nowatermark_delogo/1644456565663753843/mda-nb8mpxwznwj6s3ps.mp4
+#EXTINF:-1 group-title="音乐",女生DJ串烧
+https://vd4.bdstatic.com/mda-mmncsg3gspc9rq5m/480p/h264/1640253169234879704/mda-mmncsg3gspc9rq5m.mp4
+#EXTINF:-1 group-title="音乐",女生DJ伤感情歌FHD
+https://vdse.bdstatic.com//8fe41305b5c64f8e11715b4dfd442c67.mp4
+#EXTINF:-1 group-title="音乐",女生版DJ洗脑神曲
+https://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4
+#EXTINF:-1 group-title="音乐",拼命的喝酒拼命的抽烟
+https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4
+#EXTINF:-1 group-title="音乐",朴孝敏 – SKETCH
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+#EXTINF:-1 group-title="音乐",千年等一回
+https://vd3.bdstatic.com/mda-jc7mtk91nwgdtc7c/sc/mda-jc7mtk91nwgdtc7c.mp4
+#EXTINF:-1 group-title="音乐",情歌8首
+https://vd2.bdstatic.com/mda-mk7hhug7aprk2806/sc/cae_h264/1636496746808750167/mda-mk7hhug7aprk2806.mp4
+#EXTINF:-1 group-title="音乐",情歌好听却难唱
+http://em.21dtv.com/songs/60115911.mkv
+#EXTINF:-1 group-title="音乐",情难断
+https://vd4.bdstatic.com/mda-nbpw16dugr0ppae5/sc/cae_h264_delogo/1645737527853870072/mda-nbpw16dugr0ppae5.mp4
+#EXTINF:-1 group-title="音乐",让人陶醉的几首DJ舞曲
+https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
+#EXTINF:-1 group-title="音乐",让我做你的眼睛
+https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+#EXTINF:-1 group-title="音乐",人生如歌
+http://mobi.kuwo.cn/tmevideo/tme1257678.mp4
+#EXTINF:-1 group-title="音乐",音乐Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="音乐",EXID - Every Night
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+#EXTINF:-1 group-title="音乐",EXID - L.I.E
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+#EXTINF:-1 group-title="音乐",EXID - UP&DOWN
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+#EXTINF:-1 group-title="音乐",EXID - 上下(中文版)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+#EXTINF:-1 group-title="音乐",Foreign Figures - Fire
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+#EXTINF:-1 group-title="音乐",Four Ladies-Move
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+#EXTINF:-1 group-title="音乐",Girls Generation - DIVINE
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+#EXTINF:-1 group-title="音乐",Girls Generation - Mr.Mr
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+#EXTINF:-1 group-title="音乐",Girls Gone Wild
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+#EXTINF:-1 group-title="音乐",HELLOVENUS - StickySticky
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+#EXTINF:-1 group-title="音乐",HELLOVENUS - WiggleWiggle
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+#EXTINF:-1 group-title="音乐",Jason Derulo - The Other Side
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+#EXTINF:-1 group-title="音乐",JinSoul- Singing in the Rain
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+#EXTINF:-1 group-title="音乐",Kronic & Krunk - Hey Ho!
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+#EXTINF:-1 group-title="音乐",M2音乐
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="音乐",MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Spankin\' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Spankin\' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Yo
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV音乐
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="音乐",MUDR-139
+https://siwazywcdn2.com:5278/zhongwenzimu/IedwOy8c/index.m3u8
+#EXTINF:-1 group-title="音乐",MUDR-159
+https://siwazywcdn2.com:5278/zhongwenzimu/u7Lzkah8/index.m3u8
+#EXTINF:-1 group-title="音乐",Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="音乐",OH MY GIRL - BUNGEE (Fall in Love)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+#EXTINF:-1 group-title="音乐",otpaha
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="音乐",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="音乐",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8

@@ -94,5 +94,18 @@ TW
 - [🇭🇰香港.m3u](https://iptv-org.github.io/iptv/countries/hk.m3u)
 - [🇲🇴澳门.m3u](https://iptv-org.github.io/iptv/countries/mo.m3u)
 - [🇹🇼台湾.m3u](https://iptv-org.github.io/iptv/countries/tw.m3u)
+- 
+本仓库直播源订阅地址自己复制一下可以食用：
+
+1.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
+
+2.https://raw.fastgit.ixmu.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+
+3.https://raw.fastgit.ixmu.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
+
+4.https://raw.fastgit.ixmu.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
+
+5.https://github.moeyy.xyz/https://raw.githubusercontent.com/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+
 
 
